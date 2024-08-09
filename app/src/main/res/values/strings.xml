@@ -30,4 +30,7 @@
     <string name="news_not_found_message">Can\'t find news for that subject.</string>
     <string name="unknown_exception_message">We are working on this issue</string>
     <string name="back_arrow">back arrow</string>
+    <string name="network_error_screen_something_went_wrong">Something Went Wrong…</string>
+    <string name="network_error_screen_network_error">Network Error</string>
+    <string name="network_error_screen_retry">RETRY</string>
 </resources>
